@@ -1,0 +1,15 @@
+{
+  "project": "Alpha Stack",
+  "version": "1.0.0",
+  "modules": [
+    "Offline Cache Manager",
+    "Stale-While-Revalidate",
+    "Password Hasher & Salt",
+    "JWT Manager",
+    "Request Rate Limiter",
+    "Data Masking",
+    "Logger de Errores",
+    "Image Optimizer"
+  ],
+  "status": "active"
+}
